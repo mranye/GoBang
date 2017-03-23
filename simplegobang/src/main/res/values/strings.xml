@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleGoBang</string>
+    <string name="restart">再来一局</string>
+    <string name="pre">悔棋</string>
+</resources>
